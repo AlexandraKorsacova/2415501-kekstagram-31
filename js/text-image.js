@@ -1,4 +1,4 @@
-import '../vendor/pristine/pristine.min.js';
+import {Pristine} from '../vendor/pristine/pristine.min.js';
 
 const MAX_SYMBOL = 20;
 const MAX_HASHTAGS = 5;

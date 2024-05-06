@@ -1,4 +1,4 @@
-import '../vendor/nouislider/nouislider';
+import {noUiSlider} from '../vendor/nouislider/nouislider';
 const effects = document.querySelector('.img-upload__wrapper');
 const effectLevel = effects.querySelector('.img-upload__effect-level');
 const slider = effects.querySelector('.effect-level__slider');
